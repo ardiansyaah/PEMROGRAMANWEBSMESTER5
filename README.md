@@ -1,7 +1,3 @@
-<html>
-
-<head>
-    <title>Tugas Pemrogrman Web</title>
 </head>
 
 <body>
